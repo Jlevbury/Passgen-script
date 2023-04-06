@@ -17,21 +17,23 @@ N/A
 
 ## Usage
 
-
-
-![Screenshot (35)](https://user-images.githubusercontent.com/125767916/230437117-52c4b7af-6034-4a89-b9b4-2e001df264be.png)
-
-![Screenshot (36)](https://user-images.githubusercontent.com/125767916/230437159-9195d514-eba8-48d7-9f09-a14800dd98e5.png)
-
-![Screenshot (37)](https://user-images.githubusercontent.com/125767916/230437179-0cd47993-cd28-43fe-824b-e093edc0e77d.png)
-![Screenshot (38)](https://user-images.githubusercontent.com/125767916/230437194-83ac95bb-fd9e-49de-b5af-9c5d6ad4660e.png)
-![Screenshot (39)](https://user-images.githubusercontent.com/125767916/230437203-08ab09f5-b422-4244-a883-3b321e91fb7e.png)
-![Screenshot (40)](https://user-images.githubusercontent.com/125767916/230437214-c95015a6-4361-4b3b-8942-95eabc1713c0.png)
 ![Screenshot (41)](https://user-images.githubusercontent.com/125767916/230437232-1efd59ee-182a-4b0f-8eff-795930f39968.png)
+The prompt allowing the user to select the number of characters within the range of 8 to 128.
+![Screenshot (40)](https://user-images.githubusercontent.com/125767916/230437214-c95015a6-4361-4b3b-8942-95eabc1713c0.png)
+![Screenshot (39)](https://user-images.githubusercontent.com/125767916/230437203-08ab09f5-b422-4244-a883-3b321e91fb7e.png)
+An input that falls outside of the range will prompt the user to enter a different value.
+![Screenshot (35)](https://user-images.githubusercontent.com/125767916/230437117-52c4b7af-6034-4a89-b9b4-2e001df264be.png)
+The prompt for the inclusion of numbers.
+![Screenshot (36)](https://user-images.githubusercontent.com/125767916/230437159-9195d514-eba8-48d7-9f09-a14800dd98e5.png)
+This prompts for the inclusion of special characters.
+![Screenshot (37)](https://user-images.githubusercontent.com/125767916/230437179-0cd47993-cd28-43fe-824b-e093edc0e77d.png)
+This prompts for the inclusion of uppercase letters.
+![Screenshot (38)](https://user-images.githubusercontent.com/125767916/230437194-83ac95bb-fd9e-49de-b5af-9c5d6ad4660e.png)
+This prompts for the inclusion of lowercase letters.
 ![Screenshot (34)](https://user-images.githubusercontent.com/125767916/230437302-7a1720f5-9c8f-4997-a16b-6f0a2fb5b8ee.png)
-
+The password has been created and is displayed for the user.
 ## Credits
-
+Source code provided via gitlab for use in coding bootcamp
 
 
 ## License
