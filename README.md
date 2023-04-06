@@ -1,5 +1,5 @@
 # Passgen-script
-
+https://jlevbury.github.io/Passgen-script/ 
 
 ## Description
 This weeks challenge was to complete supplied scripting , in order to make a functional password generator. This process would incorporate aspects of JavaScript such as function writing, for loops, Math functions and calling of functions based off of user inputs. The result of completing the prompts displayed would present the user with a concatenated password using the fields selected during the prompt process and exclude the items not desired.
