@@ -34,7 +34,7 @@ This prompts for the inclusion of lowercase letters.
 The password has been created and is displayed for the user.
 ## Credits
 Source code provided via gitlab for use in coding bootcamp
-
+additional guidance on script formulation researched in reading of "Javascript & JQuery:interactive front-end web development" by Jon Duckett, subject of Math function, Random, For Loops and IF/Else statements.
 
 ## License
 
